@@ -1,1 +1,12 @@
-# this-is-me
+<!DOCTYPE html>
+<html>
+<head>
+<title>Centering Content Example</title>
+</head>
+<body>
+<p>This text is not in the center/<p>
+<center>
+<p>This text is in the center.<p>
+</center>
+</body>
+</html>
